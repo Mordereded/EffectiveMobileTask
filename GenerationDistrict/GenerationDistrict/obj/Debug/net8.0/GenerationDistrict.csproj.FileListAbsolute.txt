@@ -1,0 +1,14 @@
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\obj\Debug\net8.0\GenerationDistrict.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\obj\Debug\net8.0\GenerationDistrict.AssemblyInfoInputs.cache
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\obj\Debug\net8.0\GenerationDistrict.AssemblyInfo.cs
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\obj\Debug\net8.0\GenerationDistrict.csproj.CoreCompileInputs.cache
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\bin\Debug\net8.0\GenerationDistrict.exe
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\bin\Debug\net8.0\GenerationDistrict.deps.json
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\bin\Debug\net8.0\GenerationDistrict.runtimeconfig.json
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\bin\Debug\net8.0\GenerationDistrict.dll
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\bin\Debug\net8.0\GenerationDistrict.pdb
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\obj\Debug\net8.0\GenerationDistrict.dll
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\obj\Debug\net8.0\refint\GenerationDistrict.dll
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\obj\Debug\net8.0\GenerationDistrict.pdb
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\obj\Debug\net8.0\GenerationDistrict.genruntimeconfig.cache
+F:\Code\С#\TestGeneration\GenerationDistrict\GenerationDistrict\obj\Debug\net8.0\ref\GenerationDistrict.dll

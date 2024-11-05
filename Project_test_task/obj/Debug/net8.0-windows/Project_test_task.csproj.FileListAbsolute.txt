@@ -1,0 +1,125 @@
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\Project_test_task.exe
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\Project_test_task.deps.json
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\Project_test_task.runtimeconfig.json
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\Project_test_task.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\Project_test_task.pdb
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.csproj.AssemblyReference.cache
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.csproj.GenerateResource.cache
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.AssemblyInfoInputs.cache
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.AssemblyInfo.cs
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.csproj.CoreCompileInputs.cache
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.csproj.CopyComplete
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.dll
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\refint\Project_test_task.dll
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.pdb
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.genruntimeconfig.cache
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\ref\Project_test_task.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\EntityFramework.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.MainMenu.resources
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.InsertDistrict.resources
+F:\Code\С#\Project_test_task\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.OrderInsert.resources
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\nunit.framework.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\NUnit3.TestAdapter.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\NUnit3.TestAdapter.pdb
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\nunit.engine.netstandard.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\Mono.Cecil.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\Microsoft.DotNet.InternalAbstractions.dll
+F:\Code\С#\Project_test_task\Project_test_task\bin\Debug\net8.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\Project_test_task.deps.json
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\Project_test_task.runtimeconfig.json
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\Project_test_task.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\Project_test_task.pdb
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.csproj.AssemblyReference.cache
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.InsertDistrict.resources
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.MainMenu.resources
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.OrderInsert.resources
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.csproj.GenerateResource.cache
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.AssemblyInfoInputs.cache
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.AssemblyInfo.cs
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.csproj.CoreCompileInputs.cache
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.csproj.CopyComplete
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\refint\Project_test_task.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.pdb
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\Project_test_task.genruntimeconfig.cache
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\obj\Debug\net8.0-windows\ref\Project_test_task.dll
+C:\Users\one\Desktop\Новая папка (4)\Project_test_task\bin\Debug\net8.0-windows\Project_test_task.exe

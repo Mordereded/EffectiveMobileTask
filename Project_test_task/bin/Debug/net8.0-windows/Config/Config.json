@@ -1,0 +1,5 @@
+{
+  "Database": {
+    "ConnectionString": "Data Source=yourdatabase.db;Version=3;"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Database": {
+    "ConnectionString": "Data Source=dilivery.db;Version=3;"
+    
+  },
+  "FilePath": {
+    "LoggerFilePath": "..\\..\\..\\LoggerTextFile\\log.txt",
+    "ResultFilePath": "..\\..\\..\\ResultingFile\\result.txt"
+  }
+
+}
