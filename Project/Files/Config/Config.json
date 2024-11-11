@@ -1,0 +1,11 @@
+{
+  "Database": {
+    "ConnectionString": "Data Source=delivery.db;Version=3;"
+    
+  },
+  "FilePath": {
+    "LoggerFilePath": "..\\..\\..\\Files\\LoggerTextFile\\log.txt",
+    "ResultFilePath": "..\\..\\..\\Files\\ResultingFile\\result.txt"
+  }
+
+}
